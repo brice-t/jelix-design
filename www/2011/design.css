@@ -540,6 +540,7 @@ code.returnvalue {}
 #article h2 { color: #802022;  margin:1em 0 0.5em 0; font-size:1.5em;}
 #article h2 a.anchor { color: #802022; text-decoration:none; }
 #article h2 a { color: #802022; }
+#article h2.searchResultsHeader { margin: 0; }
 #article h3 { color: #002830;  margin:1em 0 0.5em 0; font-size:1.3em;}
 #article h4 { color: #002830; font-size:1.1em;}
 #article h5 { color: #002830; font-size:1em;}
